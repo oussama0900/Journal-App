@@ -1,9 +1,31 @@
 # Journal-App
-7DaysofCodeChallenge
-i built this app for the challange 
-this app make you abale to create a diary and upadte it if you you want by just clik on it and change what you want  .
-in this application you can Register and Login using google authentication.
-after the login all entries of your  diary will be shown 
-to delete a diary you have just to press long on a entry then an alert will be shown so just press ok .
-that's all for this application .
-this is my email for any help yougov02@gmail.com
+ a application for memorize your note and diaries    
+
+
+Prerequisites
+android 4.4 +
+Give examples
+# Installing
+for installin g just copier the folder in your desktop and open it with android studio
+
+# Built With
+android studio
+# Contributing
+Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
+
+# Versioning
+We use SemVer for versioning. For the versions available, see the tags on this repository.
+
+# Authors
+oussama ben hmida
+# License
+This project is licensed under the MIT License - see the LICENSE.md file for details
+
+# how to use
+use my app is so esay  first you can login with google authentication.
+View all entries to your diary.
+View the contents of a diary entry.
+ Add and modify an entry
+ and to delet a entry you can simply press on it untill a alert is open to show you a message of confirmation.
+ 
+
